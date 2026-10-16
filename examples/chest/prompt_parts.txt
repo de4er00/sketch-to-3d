@@ -1,0 +1,9 @@
+Use the attached prop sheet as the EXACT reference: the same treasure chest, the same three orthographic views in the same order, positions and scale (FRONT elevation, LEFT SIDE elevation, TOP-DOWN plan), the same silhouettes, the same wide white gaps between the views.
+
+Redraw it as a PART MAP for a 3D modeller: every separate PART is filled with ONE solid flat colour, with NO outlines, NO shading, NO highlights, NO texture, NO plank lines and NO gradients. Use EXACTLY the colour given for each part (hex), the same in all three views:
+1 chest box (the lower wooden box) = #E6194B
+2 chest lid (the arched wooden lid) = #3CB44B
+3 iron straps (all of them, on the box and on the lid) = #4363D8
+4 lock plate = #FFE119
+5 keyhole = #911EB4
+Pure white background. On the right side of the image add a LEGEND: a vertical column of small square swatches with a thin black border, one per part, each filled with that part's colour, with the part number and name printed next to it in plain black text.

@@ -1,0 +1,22 @@
+Use the attached character model sheet as the EXACT reference: the same character, the same four orthographic views in the same order and positions (FRONT, LEFT PROFILE, BACK, TOP-DOWN), the same pose, the same scale, the same silhouettes.
+
+Redraw it as a PART MAP for a 3D modeller: every separate PART of the character is filled with ONE solid flat colour, with NO outlines, NO shading, NO highlights, NO texture, NO gradients and NO facial features (the whole skin is one flat colour, eyes and mouth are not drawn). Use EXACTLY the colour given for each part (hex), the same in all four views:
+1 skin (head, neck, arms, legs, midriff, ears) = #E6194B
+2 mohawk hair fin = #3CB44B
+3 stubble hair on the sides of the head = #FFE119
+4 vest (both sides of the open denim vest) = #4363D8
+5 t-shirt = #F58231
+6 belt = #911EB4
+7 cargo shorts = #42D4F4
+8 left sock = #F032E6
+9 right sock = #BFEF45
+10 left shoe = #FABED4
+11 right shoe = #469990
+12 shoe soles and toe caps = #DCBEFF
+13 left glove = #9A6324
+14 right glove = #800000
+15 spiked wrist cuff = #AAFFC3
+16 backpack body = #808000
+17 backpack straps = #000075
+18 ear stud = #000000
+Pure white background. On the right side of the image add a LEGEND: a vertical column of small square swatches with a thin black border, one per part, each filled with that part's colour, with the part number and name printed next to it in plain black text.

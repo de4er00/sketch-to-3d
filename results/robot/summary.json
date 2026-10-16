@@ -1,0 +1,27 @@
+{
+ "ok": false,
+ "tris": 3774,
+ "objects": 15,
+ "iou": {
+  "front": 0.911,
+  "side": 0.774,
+  "back": 0.853
+ },
+ "mismatch_mm2": 292980,
+ "blobs": 154,
+ "blobs_over_limit": 7,
+ "checks": {
+  "audit": false,
+  "budget": true,
+  "accounting": true,
+  "sheet match": false,
+  "surface": false,
+  "form": true
+ },
+ "dents": 0,
+ "needles": 5,
+ "creases": 64,
+ "worst_sym_mm": 35.71,
+ "concave": 0.1734,
+ "audit_fails": 2
+}

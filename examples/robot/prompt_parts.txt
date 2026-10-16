@@ -1,0 +1,16 @@
+Use the attached character model sheet as the EXACT reference: the same character, the same four orthographic views in the same order and positions (FRONT, LEFT PROFILE, BACK, TOP-DOWN), the same pose, the same scale, the same silhouettes.
+
+Redraw it as a PART MAP for a 3D modeller: every separate PART of the character is filled with ONE solid flat colour, with NO outlines, NO shading, NO highlights, NO texture, NO gradients and NO details inside a part (the visor is one flat colour, the eyes are not drawn). Use EXACTLY the colour given for each part (hex), the same in all four views:
+1 skin (the robot's grey-white body: head, neck, arms, legs) = #E6194B
+2 visor = #3CB44B
+3 chest armour plate = #4363D8
+4 shoulder pads = #FFE119
+5 waist belt = #911EB4
+6 armour shorts = #F58231
+7 left boot = #42D4F4
+8 right boot = #F032E6
+9 boot soles = #BFEF45
+10 left glove (the left mitten hand) = #FABED4
+11 right glove (the right mitten hand) = #469990
+12 jetpack = #DCBEFF
+Pure white background. On the right side of the image add a LEGEND: a vertical column of small square swatches with a thin black border, one per part, each filled with that part's colour, with the part number and name printed next to it in plain black text.

@@ -1,0 +1,7 @@
+# tested with the versions in brackets; Blender 5.1 is needed separately
+numpy>=2.0          # (2.4.4)
+scipy>=1.13         # (1.17.1)
+scikit-image>=0.24  # (0.26.0)
+pillow>=10.1        # (12.2.0)
+opencv-python>=4.9  # (4.13.0)
+pytest>=8           # (9.0.3), tests only

@@ -1,0 +1,6 @@
+_work/
+out/
+__pycache__/
+*.pyc
+*.blend1
+.pytest_cache/
